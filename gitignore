@@ -1,6 +1,0 @@
-# local copy of the dataset (the notebook downloads it)
-spotify_songs.csv
-
-.ipynb_checkpoints/
-__pycache__/
-.DS_Store
